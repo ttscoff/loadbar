@@ -4,6 +4,8 @@ A widget for [Übersicht](http://tracesof.net/uebersicht/) that displays a thin 
 
 It formats its height based on the screen size, so it should work on any size monitor, stretching the full height of the screen at max load.
 
+![](screenshot.png)
+
 ### Adjusting values
 
 Based on how many cores you have and what your average load is, you may want to adjust the definitions for the alert levels. In the `update` function, change the values for each level (in descending order):

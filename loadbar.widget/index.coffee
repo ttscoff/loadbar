@@ -5,7 +5,7 @@ render: (_) -> """
 """
 
 update: (output, domEl) ->
-  val = parseInt(output,10)
+  val = parseFloat(output,10)
   $bar = $(domEl).find('.bar')
   $bar.removeClass ''
   $bar.css width: $(domEl).height()

@@ -4,7 +4,7 @@ A widget for [Übersicht](http://tracesof.net/uebersicht/) that displays a thin 
 
 It formats its height based on the screen size, so it should work on any size monitor, stretching the full height of the screen at max load.
 
-![](screenshot.png)
+![](screenshot2.png)
 
 ### Adjusting values
 
